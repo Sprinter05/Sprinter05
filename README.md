@@ -6,7 +6,7 @@
 
 ---
 
-## Welcome to my coding hideout!
+## 👋 Welcome to my coding hideout!
 - 🎓 Computer Engineering student
 - ⌨️ Programmer as a hobby
 - 💾 Tech enthusiast
@@ -25,7 +25,7 @@
 </div>
 
 ### 🚀 My current projects
-- I'm currently developing a **Discord** bot using the [discord.js](https://discord.js.org/) library for a trading card game based on the _Paper Mario_ games, the code will eventually be released here on Github.
+- I'm currently developing a **Discord** bot using the [discord.js](https://discord.js.org/) library for a trading card game based on the _Paper Mario_ series, the code will eventually be released here on Github.
 - As a side project I have [yt-dlp](https://discord.js.org/) frontend made using **batch** and **bash** scripts which aims to be compatible with any Windows version and Linux distribution. An android version will eventually be made in the future.
 - I'm also currently working on tweaking my **dotfiles** for my Linux ricing.
     * I'm using [Arch Linux](https://archlinux.org/) as a distribution dual booted with [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
