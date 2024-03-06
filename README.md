@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row; gap: 25px">
-    <img height="96" width="96" title="Profile Picture by Crispy0range" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
+    <img height="96" width="96" href="https://sprinter05.github.io/" title="Profile Picture by Crispy0range" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
     &nbsp&nbsp&nbsp
     <img height="80" width="500" title="Font used is Karma Future" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless">
 </div>
