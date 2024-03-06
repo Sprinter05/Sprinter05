@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: row; gap: 25px">
     <picture> <img height="96" width="96" title="Profile Picture by Crispy0range" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless"> </picture>
     &nbsp&nbsp&nbsp
-    <img height="80" width="500" title="Font used is Karma Future" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless">
+    <picture> <img height="80" width="500" title="Font used is Karma Future" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless"> </picture>
 </div>
 
 ---
@@ -14,14 +14,14 @@
 - 🕹️ Nintendo fanboy
 ### 😎 My programming and tech skills
 <div style="display: flex; flex-direction: row; gap: 10px">
-    <img height="48" width="48" title="Javascript" src="https://skillicons.dev/icons?i=javascript" />&nbsp
-    <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />&nbsp
-    <img height="48" width="48" title="Python" src="https://skillicons.dev/icons?i=python" />&nbsp
-    <img height="48" width="48" title="C Language" src="https://skillicons.dev/icons?i=c" />&nbsp
-    <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" />&nbsp
-    <img height="48" width="48" title="Git" src="https://skillicons.dev/icons?i=git" />&nbsp
-    <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" />&nbsp
-    <img height="48" width="48" title="Docker" src="https://skillicons.dev/icons?i=docker" />
+    <picture> <img height="48" width="48" title="Javascript" src="https://skillicons.dev/icons?i=javascript" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Python" src="https://skillicons.dev/icons?i=python" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="C Language" src="https://skillicons.dev/icons?i=c" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Git" src="https://skillicons.dev/icons?i=git" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Docker" src="https://skillicons.dev/icons?i=docker" /> </picture>
 </div>
 
 ### 🚀 My current projects
@@ -34,10 +34,10 @@
 
 ### 🏆 Github Rank:
 <div style="display: flex; flex-direction: column;">
-    <img width=400 title="Github README Stats" src="https://github-readme-stats.vercel.app/api?username=Sprinter05&show_icons=true&theme=catppuccin_mocha&card_width=320&"/>
+    <picture> <img width=400 title="Github README Stats" src="https://github-readme-stats.vercel.app/api?username=Sprinter05&show_icons=true&theme=catppuccin_mocha&card_width=320&"/> </picture>
 </div>
 
 ### 📊 Languages Graph: 
 <div style="display: flex; flex-direction: column;">
-    <img width=300 title="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprinter05&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&" />
+    <picture> <img width=300 title="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprinter05&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&" /> </picture>
 </div>
