@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row; gap: 25px">
-    <img height="96" width="96" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
+    <img height="96" width="96" alt="Profile Picture by Crispy0range" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
     &nbsp&nbsp&nbsp
     <img height="80" width="500" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless">
 </div>
@@ -14,30 +14,14 @@
 - 🕹️ Nintendo fanboy
 ### 😎 My programming and tech skills
 <div style="display: flex; flex-direction: row; gap: 10px">
-    <a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=javascript" />
-    </a>&nbsp
-    <a href="https://nodejs.org/en">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=nodejs" />
-    </a>&nbsp
-    <a href="https://www.python.org/">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=python" />
-    </a>&nbsp
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=c" />
-    </a>&nbsp
-    <a href="https://www.markdownguide.org/basic-syntax/">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=markdown" />
-    </a>&nbsp
-    <a href="https://git-scm.com/">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=git" />
-    </a>&nbsp
-    <a href="https://www.linux.org/">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=linux" />
-    </a>&nbsp
-    <a href="https://www.docker.com/">
-        <img height="48" width="48" src="https://skillicons.dev/icons?i=docker" />
-    </a>
+    <img height="48" width="48" alt="Javascript" src="https://skillicons.dev/icons?i=javascript" />&nbsp
+    <img height="48" width="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" />&nbsp
+    <img height="48" width="48" alt="Python" src="https://skillicons.dev/icons?i=python" />&nbsp
+    <img height="48" width="48" alt="C Language" src="https://skillicons.dev/icons?i=c" />&nbsp
+    <img height="48" width="48" alt="Markdown" src="https://skillicons.dev/icons?i=markdown" />&nbsp
+    <img height="48" width="48" alt="Git" src="https://skillicons.dev/icons?i=git" />&nbsp
+    <img height="48" width="48" alt="Linux" src="https://skillicons.dev/icons?i=linux" />&nbsp
+    <img height="48" width="48" alt="Docker" src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 ### 🚀 My current projects
@@ -50,14 +34,10 @@
 
 ### 🏆 Github Rank:
 <div style="display: flex; flex-direction: column;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Sprinter05&show_icons=true&theme=catppuccin_mocha&card_width=320&"/>
-    </a>
+    <img width=400 alt="Github README Stats" src="https://github-readme-stats.vercel.app/api?username=Sprinter05&show_icons=true&theme=catppuccin_mocha&card_width=320&"/>
 </div>
 
 ### 📊 Languages Graph: 
 <div style="display: flex; flex-direction: column;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprinter05&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&" />
-    </a>
+    <img width=300 alt="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprinter05&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&" />
 </div>
