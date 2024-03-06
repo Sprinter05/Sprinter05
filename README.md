@@ -1,6 +1,7 @@
 <div style="display: flex; flex-direction: row; gap: 25px">
-    <img height="104" width="104" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
-    <img height="112" width="576" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless">
+    <img height="96" width="96" src="https://media.discordapp.net/attachments/726815755034951683/1214923063783727104/pfp_crop.png?ex=65fae046&is=65e86b46&hm=a5c58ff79226ac07f3b9cc06b43c788d517f4517e4c89152ff22960cb09cd1fe&=&format=webp&quality=lossless">
+    &nbsp&nbsp&nbsp
+    <img height="80" width="500" src="https://media.discordapp.net/attachments/726815755034951683/1214924422041964605/logo.png?ex=65fae18a&is=65e86c8a&hm=3ce5a084dc188686317c33694641515bfe001f5781d4e6fa85dfff82ced140c0&=&format=webp&quality=lossless">
 </div>
 
 ---
@@ -15,25 +16,25 @@
 <div style="display: flex; flex-direction: row; gap: 10px">
     <a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=javascript" />
-    </a>
+    </a>&nbsp
     <a href="https://nodejs.org/en">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=nodejs" />
-    </a>
+    </a>&nbsp
     <a href="https://www.python.org/">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=python" />
-    </a>
+    </a>&nbsp
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=c" />
-    </a>
+    </a>&nbsp
     <a href="https://www.markdownguide.org/basic-syntax/">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=markdown" />
-    </a>
+    </a>&nbsp
     <a href="https://git-scm.com/">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=git" />
-    </a>
+    </a>&nbsp
     <a href="https://www.linux.org/">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=linux" />
-    </a>
+    </a>&nbsp
     <a href="https://www.docker.com/">
         <img height="48" width="48" src="https://skillicons.dev/icons?i=docker" />
     </a>
