@@ -33,7 +33,11 @@
     * I'm using [Arch Linux](https://archlinux.org/) as a distribution.
     * My _WM_ (Window Manager) is [qtile](https://qtile.org/) which I really like because everything is built on Python, including the configuration, so hacking into it is pretty easy and everything integrates very nicely.
 - In the hardware side I'm building my own **homelab** where I'm hosting my different websites and services using [Docker Compose](https://docs.docker.com/compose/). Once it's finished I will document everything and post here my entire homelabbing experience.
-- There's also the hackathon projects I made at HackUDC 2024, 2025 and 2026.
+- There's also the hackathon projects I made at both HackUDC and HackUPC:
+    - [nullCO2](https://github.com/Sprinter05/nullCO2) - HackUDC 2024
+    - [competenciapp](https://github.com/Sprinter05/competenciapp) - HackUDC 2025
+    - [magicdocu](https://github.com/Sprinter05/magicdocu) - HackUDC 2026
+    - [dobrandoCulleres](https://github.com/danicallero/dobrandoCulleres) - HackUPC 2026
 
 ### 🏆 Github Stats:
 <div style="display: flex; flex-direction: column;">
