@@ -38,9 +38,3 @@
     - [competenciapp](https://github.com/Sprinter05/competenciapp) - HackUDC 2025
     - [magicdocu](https://github.com/Sprinter05/magicdocu) - HackUDC 2026
     - [dobrandoCulleres](https://github.com/danicallero/dobrandoCulleres) - HackUPC 2026
-
-### 🏆 Github Stats:
-<div style="display: flex; flex-direction: column;">
-    <picture> <img width=400 title="Github README Stats" src="https://github-readme-stats.vercel.app/api?username=Sprinter05&show_icons=true&theme=catppuccin_mocha&card_width=320&"/> </picture>
-    <picture> <img width=300 title="Github README Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprinter05&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&" /> </picture>
-</div>
