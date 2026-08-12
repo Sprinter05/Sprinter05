@@ -1,6 +1,4 @@
 <div style="display: flex; flex-direction: row; gap: 25px">
-    <picture> <img height="96" width="96" title="Profile Picture by Crispy0range" src="./img/pfp_crop.png"> </picture>
-    &nbsp&nbsp&nbsp
     <picture> <img height="80" width="500" title="Font used is Karma Future" src="./img/logo.png"> </picture>
 </div>
 
