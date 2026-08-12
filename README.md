@@ -15,9 +15,9 @@
 ### 😎 My programming and tech skills
 <div style="display: flex; flex-direction: row; gap: 10px">
     <picture> <img height="48" width="48" title="Golang" src="https://skillicons.dev/icons?i=go" /> </picture>&nbsp
-    <picture> <img height="48" width="48" title="Python" src="https://skillicons.dev/icons?i=python" /> </picture>&nbsp
     <picture> <img height="48" width="48" title="C Language" src="https://skillicons.dev/icons?i=c" /> </picture>&nbsp
-    <picture> <img height="48" width="48" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Python" src="https://skillicons.dev/icons?i=python" /> </picture>&nbsp
+    <picture> <img height="48" width="48" title="Python" src="https://skillicons.dev/icons?i=bash" /> </picture>&nbsp
     <picture> <img height="48" width="48" title="Markdown" src="https://skillicons.dev/icons?i=markdown" /> </picture>&nbsp
     <picture> <img height="48" width="48" title="Linux" src="https://skillicons.dev/icons?i=linux" /> </picture>&nbsp
     <picture> <img height="48" width="48" title="Docker" src="https://skillicons.dev/icons?i=docker" /> </picture>&nbsp
