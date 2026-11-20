@@ -23,7 +23,7 @@
 </div>
 
 ### 🚀 My projects
-- My current project is a frontend for the **osu!** chat API written in Go.
+- My current project is a GBA emulator written in Golang as part of my final university project.
 - I recently built an entire **chat protocol** named *gochat* with the help of a friend, featuring both a specification and an implementation in Go.
 - I also made a [yt-dlp](https://github.com/yt-dlp/yt-dlp) frontend made using **batch** scripts (**bash** scripts made by a friend also available), which aims to be compatible with any Windows version and Linux distribution. An android version might be made in the future.
 - I also finished tweaking my **dotfiles** for my Linux ricing.
